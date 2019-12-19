@@ -13,3 +13,6 @@ I used the startbootstrap grayscale template as a layout for the design.
 
 # Deployed Portfolio 
 https://cassquatch.github.io/Portfolio/
+
+# Author
+Cassidy Fortner
